@@ -1,1 +1,2 @@
-- Make sure you 
+- Add .gitgnore and make sure node_modules are excluded ! as it alread has been added to the remote repo by mistake!  
+-   
