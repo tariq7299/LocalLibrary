@@ -16,7 +16,7 @@ async function main() {
 
 const indexRouter = require('./routes/index');
 const usersRouter = require('./routes/users');
-const wiki = require("./wiki.js");
+const wiki = require("./routes/wiki.js");
 
 const app = express();
 
